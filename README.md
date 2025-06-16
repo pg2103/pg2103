@@ -76,7 +76,6 @@
   
 ### 🌟 "Building the future, one commit at a time" 🌟
 
-![Profile Views](https://visitcount.itsvg.in/api?id=pg2103&icon=2&color=6)
 
 </div>
 
