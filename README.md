@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prakhar Gupta
+[# 👋 Hi, I'm Prakhar Gupta
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+&+MERN+Specialist;Machine+Learning+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
@@ -91,3 +91,4 @@
 <div align="center">  
   <h3>🌟 Building the future, one commit at a time 🌟</h3>  
 </div>
+](https://quizzika.netlify.app/)
