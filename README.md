@@ -10,19 +10,19 @@
 
 <div align="center">
   <a href="mailto:prakhar.gupta.212003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/prakhar2103/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://x.com/static_program" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=000000" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/prakhar-lc/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&labelColor=FFA116" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
   </a>&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/11VcniszwTUsDufDYHcFTiWcAsx3qr2ey/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </div>
 
@@ -50,7 +50,7 @@
       <td align="center" width="50%">
         <h2>🧠 Quizzika</h2>
         <p><strong>Interactive Quiz Platform</strong></p>
-        <p>Dynamic quiz application built with React[2] and Open Trivia API featuring advanced user interaction management</p>
+        <p>Dynamic quiz application built with React and Open Trivia API featuring advanced user interaction management</p>
         <br/>
         <a href="https://quizzika.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-9D4EDD?style=for-the-badge&logoColor=white" alt="Live Demo" />
@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td>• Randomized question generation<br/>• Real-time score tracking<br/>• Smart error handling</td>
-      <td>• Smooth animations<br/>• Responsive design<br/>• Modern styling with CSS[4]</td>
+      <td>• Smooth animations<br/>• Responsive design<br/>• Modern styling with CSS</td>
       <td>• API integration optimization<br/>• Fast loading times<br/>• Cross-device compatibility</td>
     </tr>
   </table>
@@ -93,11 +93,11 @@
 
 ### 🎓 **Academic Journey**
 - Final Year **B.Tech Computer Science** Student
-- Strong foundation in **Data Structures & Algorithms**[3]
+- Strong foundation in **Data Structures & Algorithms**
 - Passionate about building innovative web solutions
 
 ### 🎯 **Current Focus**
-- Building interactive applications with **React**[2]
+- Building interactive applications with **React**
 - Mastering **Next.js** for full-stack development
 - Exploring advanced **API integrations**
 
@@ -133,8 +133,8 @@
       <td align="center" width="25%">
         <h3>🌐 Frontend</h3>
         <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Skills" /><br/>
-        <img src="https://img.shields.io/badge/Styling-Expert-9D4EDD?style=flat-square" alt="CSS Expert" />[4]<br/>
-        <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square" alt="React Advanced" />[2]
+        <img src="https://img.shields.io/badge/Styling-Expert-9D4EDD?style=flat-square" alt="CSS Expert" /><br/>
+        <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square" alt="React Advanced" />
       </td>
       <td align="center" width="25%">
         <h3>⚡ Backend</h3>
@@ -151,7 +151,7 @@
       <td align="center" width="25%">
         <h3>🧮 Algorithms</h3>
         <img src="https://skillicons.dev/icons?i=java" alt="Java" /><br/>
-        <img src="https://img.shields.io/badge/DSA-Advanced-ED8B00?style=flat-square" alt="DSA" />[3]<br/>
+        <img src="https://img.shields.io/badge/DSA-Advanced-ED8B00?style=flat-square" alt="DSA" /><br/>
         <img src="https://img.shields.io/badge/Problem_Solving-Expert-FFA116?style=flat-square" alt="Problem Solving" />
       </td>
     </tr>
