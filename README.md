@@ -1,96 +1,93 @@
-Here’s a highly advanced, modern, and professional GitHub README template tailored for you—**Prakhar Gupta**—fully updated to reflect your focus on React, advanced project building, learning, and clean centerpiece elements. **All badges, widgets, and sections are interactive and commonly accepted for GitHub READMEs.**
+# 👋 Hi, I'm Prakhar Gupta
 
-# 👋 Hi there! I'm Prakhar Gupta
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+&+MERN+Specialist;Machine+Learning+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <a href="mailto:prakhar.gupta.212003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/prakhar2103/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/static_program" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://leetcode.com/u/hiQ1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
+  </a>
+  <a href="https://drive.google.com/file/d/11VcniszwTUsDufDYHcFTiWcAsx3qr2ey/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+</div>
 
-  
+---
 
+## 🚀 Currently Working On
 
+<div align="center">
 
+🎬 **[Movie Search Application](https://github.com/pg2103/movie-search)**  
+*Building an intelligent movie discovery platform with advanced search capabilities*
 
+</div>
 
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whiteimg.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&www.linkedin.com/in/prakhar://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googlechrome&logoColor.com/file/d/11VcniszwTUsDufDYHcFTiWcAsx3qr2ey/view://img.shields.io/badge/X-%23000000.svg?style=for-the-badgediv>
+---
 
-## 🚀 Featured Projects
+## 💫 About Me
 
+- 🔍 Exploring: Machine Learning concepts using Python & practical, intelligent applications  
+- 💻 Completed: MERN Stack development with focus on scalable, maintainable architectures  
+- 🤝 Collaborating on: Data-driven projects in healthcare and service automation  
+- 🙏 Seeking help with: Advanced React patterns, ML workflows, and database optimization  
+- 🌱 Currently learning: Python for Machine Learning, deployment of real-world models  
+- 💬 Ask me about: React, Next.js, Prisma, full-stack architecture & integrating ML in web  
+- ⚡ Fun fact: Passionate about building practical tools solving real-life tech & health problems
 
+---
 
-### 💬 [Quizzle – Next-Gen Trivia Challenge](https://github.com/pg2103/quizzle)
-*A dynamic, responsive, and animated React quiz app with real-time API integration, user feedback, and persistent score tracking.*
+## 💻 Tech Stack
 
-### 📺 [React Video Portal](https://github.com/pg2103/react-video-portal)
-*Build and discover curated video content using modern React, hooks, and state management, with a robust Node.js backend.*
+### Languages
 
-### 🧠 [AiNotes – AI Summarized Notes App](https://github.com/pg2103/ainotes)
-*Generate smart, concise notes assisted by AI—ideal for students and professionals. Built using React, Flask, and GPT APIs.*
+![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+### Frontend
 
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🌱 Currently Learning & Building
+### Backend & Database
 
-- **Deepening Advanced React:** Hooks, context, custom hooks, performance optimization  
-- **Creating Large-Scale MERN/Next.js Projects:** Real-world SaaS layouts, authentication, production deployment  
-- **AI in the Web:** Integrating GPT/ML APIs with frontend logic  
-- **Animations & UI Polish:** Framer Motion, CSS animation, dark/light mode, UX best practices  
-- **Open Source:** Contributing and reviewing PRs on React, ML, and cloud projects  
+![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Amazon DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-## 💡 About Me
+---
 
-- 💬 **Ask me about:** Full-Stack React, Next.js, Prisma, MongoDB, and deploying scalable web services
-- 🚀 **Explorer at heart:** Always experimenting with new libraries, cloud services, and learning new algorithms
-- 🏆 **Competitive Coder:** LeetCode, Codeforces, and participating in hackathons
-- 🤝 **Collaboration enthusiast:** Enjoy team projects & mentoring
-- 🌱 **Lifelong learner:** Currently focused on advanced React and building robust, maintainable apps  
-- ⚡️ **Fun fact:** I love making practical tools that solve actual human problems—tech should be impactful!
+## 📊 GitHub Stats
 
-## 🛠️ Tech Stack
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=pg2103&theme=synthwave&showicons=true&count_private=true" alt="GitHub Stats" />  
+</div>
 
-| **Languages** | **Frontend**  | **Backend & Database** | **DevOps & Cloud**       |
-|---------------|---------------|------------------------|--------------------------|
-| ![Python](https://img.shields.io/badge/-3670A0?style=for-the-badge&logo=python    | ![React](https://img.shields.io/badge/-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAimg.shields.io/badge/-43853D?style=for-the-badge&logo ![Vercel](https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel         |
-| ![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F](https://img.shields.io/badge/-black?style=for-the-badge&logo=next.js&logoColor=whiteields.io/badge/-3982CE?style=for-the-badge&logo=Prisma ![AWS](https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=amazon-aws[Java](https://img.shields.io/badge/-%23ED8B00.svg?style=for-the-badge&logo=open ![HTML5](https://img.shields.io/badge/-%23E34F26.svg?style=for-the-badge&logo=[MongoDB](https://img.shields.io/badge/-%234ea94b.svg?style=for-the-badge&logo=m ![Docker](https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker[C++](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c ![CSS3](https://img.shields.io/badge/-%231572B6.svg?style=for-the-badge&logo=[AmazonDynamoDB](https://img.shields.io/badge/-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor](https://img.shields.io/badge/-2088FF?style=for-the-badge&logo=github-actions&logo[R](https://img.shields.io/badge/-%23276DC3.svg?style=for-the-badge&logo=r&logo ![FramerMotion](https://img.shields.io/badge/-0055FF?style=for-the-badge&logo |
+<div align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pg2103&theme=synthwave" alt="GitHub Streak" />  
+</div>
 
-## 📊 GitHub Analytics
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pg2103&theme=synthwave&layout=compact" alt="Top Languages" />  
+</div>
 
+---
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pg2103&theme=synthwave&hide_border=false&include_all_commits=true&count_privatereak](https://github-readme-streak-stats.herokuapp.com/?user=pg2103&theme=synth Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pg2103&theme=synthwave&hide_borderdiv>
-
-## 🎯 Learning & Roadmap
-
-- 📚 **Advancing React mastery:** Learning advanced hooks, state management, and scalable app structure  
-- 🛠 **Hands-on projects:** Building and deploying real-world React and MERN stack projects  
-- 💻 **Experimenting:** Integrating AI APIs with web UIs for smarter apps  
-- 🔄 **Continuous improvement:** Constantly refactoring and open sourcing to get better every week
-
-## 🤝 Open to Collaboration
-
-- PR reviews, code mentoring, starter guides, and cross-stack pair programming  
-- **Let’s solve real-world problems together!**  
-- [Message me on LinkedIn](https://www.linkedin.com/in/prakhar2103/) or [email me](mailto:prakhar.gupta.212003@gmail.com) any time.
-
-
-  
-### 🌟 "Build. Learn. Iterate. Repeat. — Every Commit Pushes the Future Forward." 🌟
-
-
-
-
-📈 Weekly Coding Stats
-
-
-
-
-
-
-<!--
-- Github Activity: [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-- Visitors badge: ![](https://komarev.com/ghpvc/?username=pg2103&_Last updated: July 22, 2025_**
-
-**Pro-tip:**  
-To keep your README interactive and professional, use only widgets and markdown elements that work natively on GitHub. For external stats widgets and badges, always use the most up-to-date links from their official creators.
-
-Let me know if you want to add live blog posts, more dynamic stats, or direct project gallery showcases!
-
-[1] https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer
+<div align="center">  
+  <h3>🌟 Building the future, one commit at a time 🌟</h3>  
+</div>
