@@ -14,7 +14,7 @@
   <a href="https://x.com/static_program" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://leetcode.com/u/hiQ1/" target="_blank">
+  <a href="https://leetcode.com/u/prakhar-lc/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
   </a>
   <a href="https://drive.google.com/file/d/11VcniszwTUsDufDYHcFTiWcAsx3qr2ey/view?usp=sharing" target="_blank">
